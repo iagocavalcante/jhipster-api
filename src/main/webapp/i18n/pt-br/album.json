@@ -1,0 +1,23 @@
+{
+    "testeJhipApp": {
+        "album" : {
+            "home": {
+                "title": "Albums",
+                "createLabel": "Criar novo Album",
+                "createOrEditLabel": "Criar ou editar Album"
+            },
+            "created": "Um novo Album é criado com o identificador {{ param }}",
+            "updated": "Um Album é atualizado com o identificador {{ param }}",
+            "deleted": "Um Album é deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Album {{ id }}?"
+            },
+            "detail": {
+                "title": "Album"
+            },
+            "nome": "Nome",
+            "banda": "Banda",
+            "musica": "Musica"
+        }
+    }
+}

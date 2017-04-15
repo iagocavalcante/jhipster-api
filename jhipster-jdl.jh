@@ -1,0 +1,21 @@
+
+entity Banda {
+	nome String required
+}
+
+entity Album {
+	nome String required
+}
+
+entity Musica {
+	nome String required
+}
+
+relationship OneToMany {
+	Banda{album} to Album,
+	Album{musica} to Musica
+}
+
+dto * with mapstruct
+
+service all with serviceImpl

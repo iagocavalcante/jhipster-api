@@ -1,0 +1,22 @@
+{
+    "testeJhipApp": {
+        "musica" : {
+            "home": {
+                "title": "Musicas",
+                "createLabel": "Criar um(a) novo(a) Musica",
+                "createOrEditLabel": "Criar ou editar um(a) Musica"
+            },
+            "created": "A new Musica is created with identifier {{ param }}",
+            "updated": "A Musica is updated with identifier {{ param }}",
+            "deleted": "A Musica is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Musica {{ id }}?"
+            },
+            "detail": {
+                "title": "Musica"
+            },
+            "nome": "Nome",
+            "album": "Album"
+        }
+    }
+}

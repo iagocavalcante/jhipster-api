@@ -1,0 +1,22 @@
+{
+    "testeJhipApp": {
+        "banda" : {
+            "home": {
+                "title": "Bandas",
+                "createLabel": "Criar novo Banda",
+                "createOrEditLabel": "Criar ou editar Banda"
+            },
+            "created": "Um novo Banda é criado com o identificador {{ param }}",
+            "updated": "Um Banda é atualizado com o identificador {{ param }}",
+            "deleted": "Um Banda é deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Banda {{ id }}?"
+            },
+            "detail": {
+                "title": "Banda"
+            },
+            "nome": "Nome",
+            "album": "Album"
+        }
+    }
+}

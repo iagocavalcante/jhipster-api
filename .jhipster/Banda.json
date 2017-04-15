@@ -1,0 +1,25 @@
+{
+    "fluentMethods": true,
+    "relationships": [
+        {
+            "relationshipType": "one-to-many",
+            "relationshipName": "album",
+            "otherEntityName": "album",
+            "otherEntityRelationshipName": "banda"
+        }
+    ],
+    "fields": [
+        {
+            "fieldName": "nome",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "changelogDate": "20170415140901",
+    "entityTableName": "banda",
+    "dto": "mapstruct",
+    "pagination": "no",
+    "service": "serviceImpl"
+}

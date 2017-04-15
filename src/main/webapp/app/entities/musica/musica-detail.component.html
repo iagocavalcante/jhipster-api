@@ -1,0 +1,31 @@
+
+<div *ngIf="musica">
+    <h2><span jhiTranslate="testeJhipApp.musica.detail.title">Musica</span> {{musica.id}}</h2>
+    <hr>
+    <jhi-alert-error></jhi-alert-error>
+    <dl class="row-md jh-entity-details">
+        <dt><span jhiTranslate="testeJhipApp.musica.nome">Nome</span></dt>
+        <dd>
+            <span>{{musica.nome}}</span>
+        </dd>
+        <dt><span jhiTranslate="testeJhipApp.musica.album">Album</span></dt>
+        <dd>
+            <div *ngIf="musica.albumId">
+                <a [routerLink]="['/album', musica.albumId]">{{musica.albumId}}</a>
+            </div>
+        </dd>
+    </dl>
+
+    <button type="submit"
+            (click)="previousState()"
+            class="btn btn-info">
+        <span class="fa fa-arrow-left"></span>&nbsp;<span jhiTranslate="entity.action.back"> Back</span>
+    </button>
+
+    <button type="button"
+            [routerLink]="['/', { outlets: { popup: 'musica/'+ musica.id + '/edit'} }]"
+            replaceUrl="true"
+            class="btn btn-primary">
+        <span class="fa fa-pencil"></span>&nbsp;<span jhiTranslate="entity.action.edit"> Edit</span>
+    </button>
+</div>
