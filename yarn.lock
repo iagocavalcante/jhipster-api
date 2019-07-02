@@ -1520,13 +1520,14 @@ code-point-at@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/code-point-at/-/code-point-at-1.1.0.tgz#0d070b4d043a5bea33a2f1a40e2edb3d9a4ccf77"
 
-codelyzer@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/codelyzer/-/codelyzer-2.0.0.tgz#212b9182ba9fe0fee325f08781b0d49521a1c987"
+codelyzer@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/codelyzer/-/codelyzer-2.1.1.tgz#0573c7f8da4ac2a4473b0042807f7b901dec8b0a"
   dependencies:
     app-root-path "^2.0.1"
     css-selector-tokenizer "^0.7.0"
     cssauron "^1.4.0"
+    semver-dsl "^1.0.1"
     source-map "^0.5.6"
     sprintf-js "^1.0.3"
 
@@ -8436,6 +8437,12 @@ semver-diff@^2.0.0:
   resolved "https://registry.yarnpkg.com/semver-diff/-/semver-diff-2.1.0.tgz#4bbb8437c8d37e4b0cf1a68fd726ec6d645d6d36"
   dependencies:
     semver "^5.0.3"
+
+semver-dsl@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/semver-dsl/-/semver-dsl-1.0.1.tgz#d3678de5555e8a61f629eed025366ae5f27340a0"
+  dependencies:
+    semver "^5.3.0"
 
 semver-intersect@1.4.0:
   version "1.4.0"
