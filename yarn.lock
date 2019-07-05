@@ -6365,15 +6365,11 @@ next-tick@1, next-tick@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-ng-jhipster@0.1.9:
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/ng-jhipster/-/ng-jhipster-0.1.9.tgz#b85bcbff9b3cddaaf2eb8a018b93ba03b95fc707"
+ng-jhipster@0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/ng-jhipster/-/ng-jhipster-0.10.1.tgz#e74fb17a0f3b92a6408d7737c2c8c69a3c72034d"
   dependencies:
-    ng2-translate "4.2.0"
-
-ng2-translate@4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/ng2-translate/-/ng2-translate-4.2.0.tgz#83bc8feca329b5fc56a636e36073241c6280c659"
+    tslib "^1.9.0"
 
 ng2-webstorage@1.5.0:
   version "1.5.0"
