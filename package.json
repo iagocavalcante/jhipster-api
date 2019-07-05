@@ -48,7 +48,7 @@
     "event-stream": "3.3.5",
     "exports-loader": "0.6.3",
     "extract-text-webpack-plugin": "2.0.0-rc.3",
-    "file-loader": "0.10.0",
+    "file-loader": "0.11.2",
     "generator-jhipster": "5.8.2",
     "html-webpack-plugin": "2.30.1",
     "image-webpack-loader": "4.6.0",
