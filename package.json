@@ -29,7 +29,7 @@
     "swagger-ui": "3.18.0",
     "sockjs-client": "1.1.2",
     "webstomp-client": "1.0.5",
-    "tether": "1.4.0",
+    "tether": "1.4.6",
     "zone.js": "0.7.6"
   },
   "devDependencies": {
