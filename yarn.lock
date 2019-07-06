@@ -10188,9 +10188,9 @@ webpack-sources@^0.1.0, webpack-sources@^0.1.4:
     source-list-map "~0.1.7"
     source-map "~0.5.3"
 
-webpack-visualizer-plugin@0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/webpack-visualizer-plugin/-/webpack-visualizer-plugin-0.1.10.tgz#1174907504ba05158b7f9bb726ebcadb2fc5d690"
+webpack-visualizer-plugin@0.1.11:
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/webpack-visualizer-plugin/-/webpack-visualizer-plugin-0.1.11.tgz#b8770ad86b4f652612c68b1b782253faf9f8a34e"
   dependencies:
     d3 "^3.5.6"
     mkdirp "^0.5.1"
