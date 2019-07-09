@@ -6089,9 +6089,9 @@ ng-jhipster@0.10.1:
   dependencies:
     tslib "^1.9.0"
 
-ng2-webstorage@1.8.0:
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/ng2-webstorage/-/ng2-webstorage-1.8.0.tgz#02bac5f29cecc2b7a4dfea17d9cebc720edf6b49"
+ng2-webstorage@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/ng2-webstorage/-/ng2-webstorage-2.0.0.tgz#0bdf0584555c0c9d47da1413e0c80e1786ebec17"
 
 nice-try@^1.0.4:
   version "1.0.5"
