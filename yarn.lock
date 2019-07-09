@@ -5702,7 +5702,7 @@ lodash@4.17.11, lodash@^4, lodash@^4.16.2, lodash@^4.17.0, lodash@^4.17.10, loda
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
-lodash@^4.0.1, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.5.1:
+lodash@^4.0.1, lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.3.0, lodash@^4.5.0, lodash@^4.5.1:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
 
@@ -9779,11 +9779,11 @@ webpack-log@^2.0.0:
     ansi-colors "^3.0.0"
     uuid "^3.3.2"
 
-webpack-merge@2.6.1:
-  version "2.6.1"
-  resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-2.6.1.tgz#f1d801d2c5d39f83ffec9f119240b3e3be994a1c"
+webpack-merge@4.2.1:
+  version "4.2.1"
+  resolved "https://registry.yarnpkg.com/webpack-merge/-/webpack-merge-4.2.1.tgz#5e923cf802ea2ace4fd5af1d3247368a633489b4"
   dependencies:
-    lodash "^4.17.4"
+    lodash "^4.17.5"
 
 webpack-sources@^0.1.0:
   version "0.1.5"
