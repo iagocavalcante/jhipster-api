@@ -42,7 +42,7 @@
     "browser-sync": "2.26.7",
     "browser-sync-webpack-plugin": "2.2.2",
     "codelyzer": "5.1.0",
-    "copy-webpack-plugin": "4.6.0",
+    "copy-webpack-plugin": "5.0.3",
     "css-loader": "0.28.11",
     "del": "2.2.2",
     "event-stream": "3.3.5",
