@@ -2053,9 +2053,9 @@ copy-webpack-plugin@5.0.4:
     serialize-javascript "^1.7.0"
     webpack-log "^2.0.0"
 
-core-js@3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.2.0.tgz#0a835fdf6aa677fff83a823a7b5276c9e7cebb76"
+core-js@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.2.1.tgz#cd41f38534da6cc59f7db050fe67307de9868b09"
 
 core-js@^1.0.0:
   version "1.2.7"
