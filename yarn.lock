@@ -5690,9 +5690,9 @@ karma-chrome-launcher@3.1.0:
   dependencies:
     which "^1.2.1"
 
-karma-coverage@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/karma-coverage/-/karma-coverage-2.0.0.tgz#60ff767cce44180725ac9dc24e04c7bbe8d562ff"
+karma-coverage@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/karma-coverage/-/karma-coverage-2.0.1.tgz#f024f191f0f135dee2403763ac36cc52aac279ac"
   dependencies:
     dateformat "^1.0.6"
     istanbul "^0.4.0"
