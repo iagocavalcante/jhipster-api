@@ -4870,7 +4870,7 @@ imagemin@^6.1.0:
     pify "^4.0.1"
     replace-ext "^1.0.0"
 
-immutable@^3, immutable@^3.7.6, immutable@^3.x.x:
+immutable@^3, immutable@^3.8.1, immutable@^3.x.x:
   version "3.8.2"
   resolved "https://registry.yarnpkg.com/immutable/-/immutable-3.8.2.tgz#c2439951455bb39913daf281376f1530e104adf3"
 
@@ -8164,11 +8164,11 @@ redent@^2.0.0:
     indent-string "^3.0.0"
     strip-indent "^2.0.0"
 
-redux-immutable@3.0.8:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/redux-immutable/-/redux-immutable-3.0.8.tgz#df5a5d601c88227ba38f474cf82f7d00e56f8c14"
+redux-immutable@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/redux-immutable/-/redux-immutable-3.1.0.tgz#cafbd686e0711261119b9c28960935dc47a49d0a"
   dependencies:
-    immutable "^3.7.6"
+    immutable "^3.8.1"
 
 redux@^3.x.x:
   version "3.7.2"
@@ -9488,9 +9488,9 @@ swagger-client@^3.9.3:
     utf8-bytes "0.0.1"
     utfstring "^2.0.0"
 
-swagger-ui@3.23.5:
-  version "3.23.5"
-  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.23.5.tgz#d693e56a95c8a988c38607014822bab2d2de670e"
+swagger-ui@3.23.6:
+  version "3.23.6"
+  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.23.6.tgz#fe84066234c7b45b6e2e1ed1cf8ac607757d51f8"
   dependencies:
     "@babel/runtime-corejs2" "^7.5.5"
     "@braintree/sanitize-url" "^2.0.2"
@@ -9518,7 +9518,7 @@ swagger-ui@3.23.5:
     react-motion "^0.5.2"
     react-redux "^4.x.x"
     redux "^3.x.x"
-    redux-immutable "3.0.8"
+    redux-immutable "3.1.0"
     remarkable "^1.7.4"
     reselect "^2.5.4"
     serialize-error "^2.1.0"
