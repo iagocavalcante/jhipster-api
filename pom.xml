@@ -56,7 +56,7 @@
         <!-- Sonar properties -->
         <project.testresult.directory>${project.build.directory}/test-results</project.testresult.directory>
         <run.addResources>false</run.addResources>
-        <scala-maven-plugin.version>4.1.1</scala-maven-plugin.version>
+        <scala-maven-plugin.version>4.2.0</scala-maven-plugin.version>
         <scala.version>2.12.1</scala.version>
         <sonar-maven-plugin.version>3.6.1.1688</sonar-maven-plugin.version>
 
