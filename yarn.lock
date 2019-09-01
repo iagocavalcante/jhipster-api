@@ -9555,9 +9555,9 @@ svgo@^1.0.5:
     unquote "~1.1.1"
     util.promisify "~1.0.0"
 
-swagger-client@^3.9.3:
-  version "3.9.3"
-  resolved "https://registry.yarnpkg.com/swagger-client/-/swagger-client-3.9.3.tgz#47e1a32fe45529e818da9f33b70661c93b8bb3a8"
+swagger-client@^3.9.4:
+  version "3.9.4"
+  resolved "https://registry.yarnpkg.com/swagger-client/-/swagger-client-3.9.4.tgz#9ce181cf117274122a85fcd97d52adce2aa95b8b"
   dependencies:
     "@babel/runtime-corejs2" "^7.0.0"
     "@kyleshockey/object-assign-deep" "^0.4.0"
@@ -9578,9 +9578,9 @@ swagger-client@^3.9.3:
     utf8-bytes "0.0.1"
     utfstring "^2.0.0"
 
-swagger-ui@3.23.6:
-  version "3.23.6"
-  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.23.6.tgz#fe84066234c7b45b6e2e1ed1cf8ac607757d51f8"
+swagger-ui@3.23.7:
+  version "3.23.7"
+  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.23.7.tgz#da7e47ec3fe53713dafce1508d76e441c008fb46"
   dependencies:
     "@babel/runtime-corejs2" "^7.5.5"
     "@braintree/sanitize-url" "^2.0.2"
@@ -9612,7 +9612,7 @@ swagger-ui@3.23.6:
     remarkable "^1.7.4"
     reselect "^2.5.4"
     serialize-error "^2.1.0"
-    swagger-client "^3.9.3"
+    swagger-client "^3.9.4"
     url-parse "^1.4.7"
     xml-but-prettier "^1.0.1"
     zenscroll "^4.0.2"
