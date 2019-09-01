@@ -82,7 +82,7 @@
     "webpack-merge": "4.2.2",
     "webpack-visualizer-plugin": "0.1.11",
     "write-file-webpack-plugin": "4.5.1",
-    "xml2js": "0.4.19",
+    "xml2js": "0.4.20",
     "yargs": "14.0.0"
   },
   "engines": {
