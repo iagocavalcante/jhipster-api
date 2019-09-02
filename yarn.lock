@@ -9578,9 +9578,9 @@ swagger-client@^3.9.4:
     utf8-bytes "0.0.1"
     utfstring "^2.0.0"
 
-swagger-ui@3.23.7:
-  version "3.23.7"
-  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.23.7.tgz#da7e47ec3fe53713dafce1508d76e441c008fb46"
+swagger-ui@3.23.8:
+  version "3.23.8"
+  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.23.8.tgz#a70bfb1247ebb52c402016f8d2151e53d57344b3"
   dependencies:
     "@babel/runtime-corejs2" "^7.5.5"
     "@braintree/sanitize-url" "^2.0.2"
