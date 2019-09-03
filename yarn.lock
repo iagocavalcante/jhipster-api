@@ -6730,9 +6730,9 @@ next-tick@1, next-tick@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"
 
-ng-jhipster@0.11.0:
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/ng-jhipster/-/ng-jhipster-0.11.0.tgz#079fb7d669f2774f1875b2a2b44e6696a127f411"
+ng-jhipster@0.11.1:
+  version "0.11.1"
+  resolved "https://registry.yarnpkg.com/ng-jhipster/-/ng-jhipster-0.11.1.tgz#b07230d1a68901daab933b57eecabd4c9a30e72e"
   dependencies:
     tslib "^1.9.0"
 
