@@ -3728,9 +3728,13 @@ file-type@5.2.0, file-type@^5.2.0:
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/file-type/-/file-type-5.2.0.tgz#2ddbea7c73ffe36368dfae49dc338c058c2b8ad6"
 
-file-type@^10.4.0, file-type@^10.7.0:
+file-type@^10.4.0:
   version "10.11.0"
   resolved "https://registry.yarnpkg.com/file-type/-/file-type-10.11.0.tgz#2961d09e4675b9fb9a3ee6b69e9cd23f43fd1890"
+
+file-type@^12.0.0:
+  version "12.2.0"
+  resolved "https://registry.yarnpkg.com/file-type/-/file-type-12.2.0.tgz#bc4bce830e38a96a0ecfea0e2dfcee2855ed1380"
 
 file-type@^3.8.0:
   version "3.9.0"
@@ -4245,7 +4249,7 @@ globals@^11.1.0:
   version "11.12.0"
   resolved "https://registry.yarnpkg.com/globals/-/globals-11.12.0.tgz#ab8795338868a0babd8525758018c2a7eb95c42e"
 
-globby@^10.0.1:
+globby@^10.0.0, globby@^10.0.1:
   version "10.0.1"
   resolved "https://registry.yarnpkg.com/globby/-/globby-10.0.1.tgz#4782c34cb75dd683351335c5829cc3420e606b22"
   dependencies:
@@ -4836,22 +4840,22 @@ ignore@^5.1.1:
   version "5.1.2"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.1.2.tgz#e28e584d43ad7e92f96995019cc43b9e1ac49558"
 
-image-webpack-loader@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/image-webpack-loader/-/image-webpack-loader-5.0.0.tgz#51c0a04415c72f66171277b4ba3bed5f4e0f847d"
+image-webpack-loader@5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/image-webpack-loader/-/image-webpack-loader-5.1.0.tgz#b3bd39c6bb56aa9eabefafbe0a37e389daeb5b89"
   dependencies:
-    imagemin "^6.1.0"
+    imagemin "^7.0.0"
     loader-utils "^1.2.3"
     object-assign "^4.1.1"
   optionalDependencies:
-    imagemin-gifsicle "^6.0.0"
+    imagemin-gifsicle "^6.0.1"
     imagemin-mozjpeg "^8.0.0"
-    imagemin-optipng "^6.0.0"
+    imagemin-optipng "^7.0.0"
     imagemin-pngquant "^6.0.0"
     imagemin-svgo "^7.0.0"
-    imagemin-webp "^5.0.0"
+    imagemin-webp "^5.1.0"
 
-imagemin-gifsicle@^6.0.0:
+imagemin-gifsicle@^6.0.1:
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/imagemin-gifsicle/-/imagemin-gifsicle-6.0.1.tgz#6abad4e95566d52e5a104aba1c24b4f3b48581b3"
   dependencies:
@@ -4867,13 +4871,13 @@ imagemin-mozjpeg@^8.0.0:
     is-jpg "^2.0.0"
     mozjpeg "^6.0.0"
 
-imagemin-optipng@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/imagemin-optipng/-/imagemin-optipng-6.0.0.tgz#a6bfc7b542fc08fc687e83dfb131249179a51a68"
+imagemin-optipng@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/imagemin-optipng/-/imagemin-optipng-7.0.0.tgz#7680359bcf254bb85bbe87e727d1bdfc03491b1d"
   dependencies:
     exec-buffer "^3.0.0"
-    is-png "^1.0.0"
-    optipng-bin "^5.0.0"
+    is-png "^2.0.0"
+    optipng-bin "^6.0.0"
 
 imagemin-pngquant@^6.0.0:
   version "6.0.1"
@@ -4891,7 +4895,7 @@ imagemin-svgo@^7.0.0:
     is-svg "^3.0.0"
     svgo "^1.0.5"
 
-imagemin-webp@^5.0.0:
+imagemin-webp@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/imagemin-webp/-/imagemin-webp-5.1.0.tgz#ddb1307ad97aff97293c5a600e384e40c07f68a7"
   dependencies:
@@ -4899,15 +4903,15 @@ imagemin-webp@^5.0.0:
     exec-buffer "^3.0.0"
     is-cwebp-readable "^2.0.1"
 
-imagemin@^6.1.0:
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/imagemin/-/imagemin-6.1.0.tgz#62508b465728fea36c03cdc07d915fe2d8cf9e13"
+imagemin@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/imagemin/-/imagemin-7.0.0.tgz#48651ab86c1975157306e3a18f8994814db085ff"
   dependencies:
-    file-type "^10.7.0"
-    globby "^8.0.1"
-    make-dir "^1.0.0"
-    p-pipe "^1.1.0"
-    pify "^4.0.1"
+    file-type "^12.0.0"
+    globby "^10.0.0"
+    junk "^3.1.0"
+    make-dir "^3.0.0"
+    p-pipe "^3.0.0"
     replace-ext "^1.0.0"
 
 immutable@^3, immutable@^3.8.1, immutable@^3.x.x:
@@ -5379,6 +5383,10 @@ is-png@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/is-png/-/is-png-1.0.0.tgz#3d80373fe9b89d65fd341f659d3fc0a1135e718a"
 
+is-png@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/is-png/-/is-png-2.0.0.tgz#ee8cbc9e9b050425cedeeb4a6fb74a649b0a4a8d"
+
 is-promise@^2.1, is-promise@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/is-promise/-/is-promise-2.1.0.tgz#79a2a9ece7f096e80f36d2b2f3bc16c1ff4bf3fa"
@@ -5735,6 +5743,10 @@ jstransform@^11.0.3:
     esprima-fb "^15001.1.0-dev-harmony-fb"
     object-assign "^2.0.0"
     source-map "^0.4.2"
+
+junk@^3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/junk/-/junk-3.1.0.tgz#31499098d902b7e98c5d9b9c80f43457a88abfa1"
 
 karma-chrome-launcher@3.1.0:
   version "3.1.0"
@@ -6289,6 +6301,12 @@ make-dir@^2.0.0, make-dir@^2.1.0:
   dependencies:
     pify "^4.0.1"
     semver "^5.6.0"
+
+make-dir@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/make-dir/-/make-dir-3.0.0.tgz#1b5f39f6b9270ed33f9f054c5c0f84304989f801"
+  dependencies:
+    semver "^6.0.0"
 
 make-fetch-happen@^5.0.0:
   version "5.0.0"
@@ -7124,9 +7142,9 @@ optionator@^0.8.1:
     type-check "~0.3.2"
     wordwrap "~1.0.0"
 
-optipng-bin@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/optipng-bin/-/optipng-bin-5.1.0.tgz#a7c7ab600a3ab5a177dae2f94c2d800aa386b5a9"
+optipng-bin@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/optipng-bin/-/optipng-bin-6.0.0.tgz#376120fa79d5e71eee2f524176efdd3a5eabd316"
   dependencies:
     bin-build "^3.0.0"
     bin-wrapper "^4.0.0"
@@ -7283,9 +7301,9 @@ p-map@^3.0.0:
   dependencies:
     aggregate-error "^3.0.0"
 
-p-pipe@^1.1.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/p-pipe/-/p-pipe-1.2.0.tgz#4b1a11399a11520a67790ee5a0c1d5881d6befe9"
+p-pipe@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/p-pipe/-/p-pipe-3.0.0.tgz#ab1fb87c0b8dd79b3bb03a8a23680fc9d054e132"
 
 p-reduce@^1.0.0:
   version "1.0.0"
