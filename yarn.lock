@@ -2,16 +2,16 @@
 # yarn lockfile v1
 
 
-"@angular-devkit/architect@0.803.4":
-  version "0.803.4"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.803.4.tgz#d1f058123ca33e77b674e9c1080a0c8be7aa670c"
+"@angular-devkit/architect@0.803.5":
+  version "0.803.5"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/architect/-/architect-0.803.5.tgz#68c0cc0df19a7898ddf58ce684c3e47bdab493d9"
   dependencies:
-    "@angular-devkit/core" "8.3.4"
+    "@angular-devkit/core" "8.3.5"
     rxjs "6.4.0"
 
-"@angular-devkit/core@8.3.4":
-  version "8.3.4"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.4.tgz#cdd0593ca4dc5eaff2adc77bda9aed1327dbb405"
+"@angular-devkit/core@8.3.5":
+  version "8.3.5"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/core/-/core-8.3.5.tgz#d1b58df73a379e29f3ddc1cb36cf29d8e476786e"
   dependencies:
     ajv "6.10.2"
     fast-json-stable-stringify "2.0.0"
@@ -19,22 +19,22 @@
     rxjs "6.4.0"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@8.3.4":
-  version "8.3.4"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-8.3.4.tgz#09735ac05fa23780b0edcbe3ac906892c753daec"
+"@angular-devkit/schematics@8.3.5":
+  version "8.3.5"
+  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-8.3.5.tgz#d2db54c7226a338fa101ab2eb09ea0231285c87d"
   dependencies:
-    "@angular-devkit/core" "8.3.4"
+    "@angular-devkit/core" "8.3.5"
     rxjs "6.4.0"
 
-"@angular/cli@8.3.4":
-  version "8.3.4"
-  resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-8.3.4.tgz#1e64fd25e8c69a62f984c4b11da15802874d773d"
+"@angular/cli@8.3.5":
+  version "8.3.5"
+  resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-8.3.5.tgz#9d96393b1c8327025b2b3fb91fd621cbf92a5915"
   dependencies:
-    "@angular-devkit/architect" "0.803.4"
-    "@angular-devkit/core" "8.3.4"
-    "@angular-devkit/schematics" "8.3.4"
-    "@schematics/angular" "8.3.4"
-    "@schematics/update" "0.803.4"
+    "@angular-devkit/architect" "0.803.5"
+    "@angular-devkit/core" "8.3.5"
+    "@angular-devkit/schematics" "8.3.5"
+    "@schematics/angular" "8.3.5"
+    "@schematics/update" "0.803.5"
     "@yarnpkg/lockfile" "1.1.0"
     ansi-colors "4.1.1"
     debug "^4.1.1"
@@ -237,19 +237,19 @@
     "@nodelib/fs.scandir" "2.1.1"
     fastq "^1.6.0"
 
-"@schematics/angular@8.3.4":
-  version "8.3.4"
-  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-8.3.4.tgz#54bc83b12b96d5027fefe102e0356005f7b93a81"
+"@schematics/angular@8.3.5":
+  version "8.3.5"
+  resolved "https://registry.yarnpkg.com/@schematics/angular/-/angular-8.3.5.tgz#9c51238ebcea69f735dde98ee051c3f05a6ce50c"
   dependencies:
-    "@angular-devkit/core" "8.3.4"
-    "@angular-devkit/schematics" "8.3.4"
+    "@angular-devkit/core" "8.3.5"
+    "@angular-devkit/schematics" "8.3.5"
 
-"@schematics/update@0.803.4":
-  version "0.803.4"
-  resolved "https://registry.yarnpkg.com/@schematics/update/-/update-0.803.4.tgz#88142bdf6acffcdd0f618e2fa5ba8b160fe45fb2"
+"@schematics/update@0.803.5":
+  version "0.803.5"
+  resolved "https://registry.yarnpkg.com/@schematics/update/-/update-0.803.5.tgz#9c5705cd2247b1ee7d6254a127e3b24c2463d570"
   dependencies:
-    "@angular-devkit/core" "8.3.4"
-    "@angular-devkit/schematics" "8.3.4"
+    "@angular-devkit/core" "8.3.5"
+    "@angular-devkit/schematics" "8.3.5"
     "@yarnpkg/lockfile" "1.1.0"
     ini "1.3.5"
     pacote "9.5.5"
