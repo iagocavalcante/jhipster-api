@@ -58,7 +58,7 @@
     "karma-coverage": "2.0.1",
     "karma-intl-shim": "1.0.3",
     "karma-jasmine": "2.0.1",
-    "karma-junit-reporter": "1.2.0",
+    "karma-junit-reporter": "2.0.1",
     "karma-phantomjs-launcher": "1.0.4",
     "karma-remap-istanbul": "0.6.0",
     "karma-sourcemap-loader": "0.3.7",
