@@ -51,27 +51,27 @@
     universal-analytics "^0.4.20"
     uuid "^3.3.2"
 
-"@angular/common@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/common/-/common-8.2.11.tgz#8203618e32f01ebd3b19368e41e2a25371a6ea72"
+"@angular/common@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/common/-/common-8.2.12.tgz#9ec0ed1cc68128013f65167e175b9101b1c2bd9f"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/compiler@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-8.2.11.tgz#fe1da7b83cbd4dd4c59d784d7a5caf593003a885"
+"@angular/compiler@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/compiler/-/compiler-8.2.12.tgz#da843cd0d1ff79ec8a8ad007f2c374102840decf"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/core@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/core/-/core-8.2.11.tgz#85d1feca5ab7423ddc7468dd03ebe7c1ed7f3f06"
+"@angular/core@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/core/-/core-8.2.12.tgz#faef656cfa3b0bf4c1579d1498034045981c791a"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/forms@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-8.2.11.tgz#7d81e38cb1b53d3abd7f039575e2e5c60d50f18e"
+"@angular/forms@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/forms/-/forms-8.2.12.tgz#0a113034075c64311b4c7294b6b51a07b8359e64"
   dependencies:
     tslib "^1.9.0"
 
@@ -81,21 +81,21 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/platform-browser-dynamic@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-8.2.11.tgz#e6bdcc8bb7adb097b63be33cdf69d08e9b5dc8d4"
+"@angular/platform-browser-dynamic@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser-dynamic/-/platform-browser-dynamic-8.2.12.tgz#b1b5f7cd1832686ece45692b094d9d1386bd2313"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/platform-browser@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-8.2.11.tgz#ad784641c54760704a620e8e1f813a9c1570f90d"
+"@angular/platform-browser@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/platform-browser/-/platform-browser-8.2.12.tgz#884c37bcc5b84778096cb30fab576549ef695dc5"
   dependencies:
     tslib "^1.9.0"
 
-"@angular/router@8.2.11":
-  version "8.2.11"
-  resolved "https://registry.yarnpkg.com/@angular/router/-/router-8.2.11.tgz#3925f0e9840ce0c9002eb154f1f7cd998994a15d"
+"@angular/router@8.2.12":
+  version "8.2.12"
+  resolved "https://registry.yarnpkg.com/@angular/router/-/router-8.2.12.tgz#292866fa8094b110f0c077d7d2974d4ba958dfcb"
   dependencies:
     tslib "^1.9.0"
 
