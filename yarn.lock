@@ -287,9 +287,9 @@
     "@types/minimatch" "*"
     "@types/node" "*"
 
-"@types/jasmine@3.4.4":
-  version "3.4.4"
-  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-3.4.4.tgz#be3fbd73e72725edb44e6f7f509cd52912d1550c"
+"@types/jasmine@3.4.5":
+  version "3.4.5"
+  resolved "https://registry.yarnpkg.com/@types/jasmine/-/jasmine-3.4.5.tgz#589cd518a725ceaf7605997e441a09d7f530483c"
 
 "@types/minimatch@*":
   version "3.0.3"
