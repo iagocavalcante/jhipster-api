@@ -2847,9 +2847,9 @@ domhandler@2.1:
   dependencies:
     domelementtype "1"
 
-dompurify@^2.0.0:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.0.6.tgz#0a4196c211ce00e848240e52b1d49261af12a3be"
+dompurify@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.0.7.tgz#f8266ad38fe1602fb5b3222f31eedbf5c16c4fd5"
 
 domutils@1.1:
   version "1.1.6"
@@ -9829,9 +9829,9 @@ swagger-client@^3.9.5:
     utf8-bytes "0.0.1"
     utfstring "^2.0.0"
 
-swagger-ui@3.24.0:
-  version "3.24.0"
-  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.24.0.tgz#a7e48cfa3745ac98abded2b8898fbf682a7366ca"
+swagger-ui@3.24.2:
+  version "3.24.2"
+  resolved "https://registry.yarnpkg.com/swagger-ui/-/swagger-ui-3.24.2.tgz#c579c2f705075615bf172300abe390e67b423297"
   dependencies:
     "@babel/runtime-corejs2" "^7.5.5"
     "@braintree/sanitize-url" "^3.0.0"
@@ -9842,7 +9842,7 @@ swagger-ui@3.24.0:
     core-js "^2.5.1"
     css.escape "1.5.1"
     deep-extend "0.6.0"
-    dompurify "^2.0.0"
+    dompurify "^2.0.7"
     ieee754 "^1.1.13"
     immutable "^3.x.x"
     js-file-download "^0.4.1"
