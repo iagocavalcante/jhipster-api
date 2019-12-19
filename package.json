@@ -41,7 +41,7 @@
     "awesome-typescript-loader": "5.2.1",
     "browser-sync": "2.26.7",
     "browser-sync-webpack-plugin": "2.2.2",
-    "codelyzer": "5.2.0",
+    "codelyzer": "5.2.1",
     "copy-webpack-plugin": "5.1.1",
     "css-loader": "3.4.0",
     "del": "5.1.0",
