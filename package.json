@@ -33,7 +33,7 @@
     "zone.js": "0.10.2"
   },
   "devDependencies": {
-    "@angular/cli": "8.3.24",
+    "@angular/cli": "9.0.1",
     "@types/jasmine": "3.5.3",
     "@types/node": "7.10.9",
     "add-asset-html-webpack-plugin": "3.1.3",
