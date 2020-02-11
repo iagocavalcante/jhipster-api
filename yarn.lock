@@ -5956,9 +5956,9 @@ karma-intl-shim@1.0.3:
   dependencies:
     intl "^1.0.1"
 
-karma-jasmine@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/karma-jasmine/-/karma-jasmine-3.1.0.tgz#e234e2a50bcf4d040c79b8b1826465f783590245"
+karma-jasmine@3.1.1:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/karma-jasmine/-/karma-jasmine-3.1.1.tgz#f592b253e7619a8d84559d7daf473a647498ade8"
   dependencies:
     jasmine-core "^3.5.0"
 
