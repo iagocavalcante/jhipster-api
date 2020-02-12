@@ -4150,9 +4150,9 @@ generate-object-property@^1.1.0:
   dependencies:
     is-property "^1.0.0"
 
-generator-jhipster@6.7.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/generator-jhipster/-/generator-jhipster-6.7.0.tgz#749389b37ee83d577dbc5a811241a93f854ec1b6"
+generator-jhipster@6.7.1:
+  version "6.7.1"
+  resolved "https://registry.yarnpkg.com/generator-jhipster/-/generator-jhipster-6.7.1.tgz#e4880abfc4f0466dd18aa4295c41a6917bddd635"
   dependencies:
     aws-sdk "2.533.0"
     axios "0.19.0"
