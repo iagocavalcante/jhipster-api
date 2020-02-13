@@ -198,9 +198,9 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@ng-bootstrap/ng-bootstrap@5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-5.2.2.tgz#65d7d0ddfd686b534c65f7fc79bd75b17856b59a"
+"@ng-bootstrap/ng-bootstrap@5.2.3":
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-5.2.3.tgz#e4e1cf9afc9a4b6e2c711ae9fac89a3ebb818d90"
   dependencies:
     tslib "^1.9.0"
 
