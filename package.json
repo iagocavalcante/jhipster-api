@@ -76,7 +76,7 @@
     "to-string-loader": "1.1.6",
     "tslint": "5.20.1",
     "tslint-loader": "3.5.4",
-    "typescript": "3.7.5",
+    "typescript": "3.9.10",
     "webpack": "4.41.6",
     "webpack-dev-server": "3.10.3",
     "webpack-merge": "4.2.2",
