@@ -9,7 +9,7 @@
   "dependencies": {
     "@angular/common": "19.2.16",
     "@angular/compiler": "9.1.13",
-    "@angular/core": "9.0.0",
+    "@angular/core": "10.2.5",
     "@angular/forms": "9.1.13",
     "@angular/http": "7.2.16",
     "@angular/platform-browser": "9.1.13",
